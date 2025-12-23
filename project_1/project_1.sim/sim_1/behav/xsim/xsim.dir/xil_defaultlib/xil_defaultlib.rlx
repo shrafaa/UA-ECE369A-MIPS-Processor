@@ -1,0 +1,25 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/rgaas/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sim_1/new/TopLevel_tb.v,1762405917,verilog,,,,TopLevel_tb,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/ALU32Bit.v,1762473683,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/ANDgate.v,,ALU32Bit,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/ANDgate.v,1762394651,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/Adder.v,,ANDgate,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/Adder.v,1762394573,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/Controller.v,,Adder,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/Controller.v,1762473751,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/DataMemory.v,,Controller,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/DataMemory.v,1762405756,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/EX_MEM_reg.v,,DataMemory,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/EX_MEM_reg.v,1762473824,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/ID_EX_reg.v,,EX_MEM_reg,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/ID_EX_reg.v,1762473864,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/IF_ID_reg.v,,ID_EX_reg,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/IF_ID_reg.v,1762473891,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/InstructionMemory.v,,IF_ID_reg,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/InstructionMemory.v,1762405183,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/MEM_WB_reg.v,,InstructionMemory,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/MEM_WB_reg.v,1762473941,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/Mux32Bit2To1.v,,MEM_WB_reg,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/Mux32Bit2To1.v,1762394397,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/Mux32Bit3To1.v,,Mux32Bit2To1,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/Mux32Bit3To1.v,1762394455,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/Mux5Bit2To1.v,,Mux32Bit3To1,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/Mux5Bit2To1.v,1762394293,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/PCAdder.v,,Mux5Bit2To1,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/PCAdder.v,1762394019,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/ProgramCounter.v,,PCAdder,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/ProgramCounter.v,1762393926,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/RegisterFile.v,,ProgramCounter,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/RegisterFile.v,1762394110,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/ShiftLeft2.v,,RegisterFile,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/ShiftLeft2.v,1762394492,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/SignExtension.v,,ShiftLeft2,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/SignExtension.v,1762394155,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/TopLevel.v,,SignExtension,,,,,,,,
+C:/Users/rgaas/project_1/project_1.srcs/sources_1/new/TopLevel.v,1762474051,verilog,,C:/Users/rgaas/project_1/project_1.srcs/sim_1/new/TopLevel_tb.v,,TopLevel,,,,,,,,

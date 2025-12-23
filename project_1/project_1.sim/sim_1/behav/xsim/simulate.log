@@ -1,0 +1,221 @@
+Time resolution is 1 ps
+
+=== Time 200000 ns ===
+
+ PCValue =          0 WriteData =          0
+
+=== Time 400000 ns ===
+
+ PCValue =          4 WriteData =          0
+
+=== Time 600000 ns ===
+
+ PCValue =          8 WriteData =          0
+
+=== Time 800000 ns ===
+
+ PCValue =         12 WriteData =          0
+
+=== Time 1000000 ns ===
+
+ PCValue =         16 WriteData =          x
+
+=== Time 1200000 ns ===
+
+ PCValue =         20 WriteData =          0
+
+=== Time 1400000 ns ===
+
+ PCValue =         24 WriteData =          0
+
+=== Time 1600000 ns ===
+
+ PCValue =         28 WriteData =          0
+
+=== Time 1800000 ns ===
+
+ PCValue =         32 WriteData =          0
+
+=== Time 2000000 ns ===
+
+ PCValue =         36 WriteData =          0
+
+=== Time 2200000 ns ===
+
+ PCValue =         40 WriteData =          x
+
+=== Time 2400000 ns ===
+
+ PCValue =         44 WriteData =          0
+
+=== Time 2600000 ns ===
+
+ PCValue =         48 WriteData =          0
+
+=== Time 2800000 ns ===
+
+ PCValue =         52 WriteData =          0
+
+=== Time 3000000 ns ===
+
+ PCValue =         56 WriteData =          0
+
+=== Time 3200000 ns ===
+
+ PCValue =         60 WriteData =          0
+
+=== Time 3400000 ns ===
+
+ PCValue =         64 WriteData =          x
+
+=== Time 3600000 ns ===
+
+ PCValue =         68 WriteData =          0
+
+=== Time 3800000 ns ===
+
+ PCValue =         72 WriteData =          0
+
+=== Time 4000000 ns ===
+
+ PCValue =         76 WriteData =          0
+
+=== Time 4200000 ns ===
+
+ PCValue =         80 WriteData =          0
+
+=== Time 4400000 ns ===
+
+ PCValue =         84 WriteData =          0
+
+=== Time 4600000 ns ===
+
+ PCValue =         88 WriteData =          0
+
+=== Time 4800000 ns ===
+
+ PCValue =         92 WriteData =          0
+
+=== Time 5000000 ns ===
+
+ PCValue =         96 WriteData =          0
+
+=== Time 5200000 ns ===
+
+ PCValue =        100 WriteData =          0
+
+=== Time 5400000 ns ===
+
+ PCValue =        104 WriteData =          0
+
+=== Time 5600000 ns ===
+
+ PCValue =        108 WriteData =          0
+
+=== Time 5800000 ns ===
+
+ PCValue =        112 WriteData =          0
+
+=== Time 6000000 ns ===
+
+ PCValue =        116 WriteData =          0
+
+=== Time 6200000 ns ===
+
+ PCValue =        120 WriteData =          0
+
+=== Time 6400000 ns ===
+
+ PCValue =        124 WriteData =          0
+
+=== Time 6600000 ns ===
+
+ PCValue =        128 WriteData =          0
+
+=== Time 6800000 ns ===
+
+ PCValue =        132 WriteData =          0
+
+=== Time 7000000 ns ===
+
+ PCValue =        136 WriteData =          x
+
+=== Time 7200000 ns ===
+
+ PCValue =        140 WriteData =          0
+
+=== Time 7400000 ns ===
+
+ PCValue =        144 WriteData =          0
+
+=== Time 7600000 ns ===
+
+ PCValue =        148 WriteData =          0
+
+=== Time 7800000 ns ===
+
+ PCValue =        152 WriteData =          0
+
+=== Time 8000000 ns ===
+
+ PCValue =        156 WriteData =          0
+
+=== Time 8200000 ns ===
+
+ PCValue =        160 WriteData =          0
+
+=== Time 8400000 ns ===
+
+ PCValue =        164 WriteData =          0
+
+=== Time 8600000 ns ===
+
+ PCValue =        168 WriteData =          0
+
+=== Time 8800000 ns ===
+
+ PCValue =        172 WriteData =          0
+
+=== Time 9000000 ns ===
+
+ PCValue =        176 WriteData =          0
+
+=== Time 9200000 ns ===
+
+ PCValue =        180 WriteData =          0
+
+=== Time 9400000 ns ===
+
+ PCValue =        184 WriteData =          0
+
+=== Time 9600000 ns ===
+
+ PCValue =        188 WriteData =          0
+
+=== Time 9800000 ns ===
+
+ PCValue =        192 WriteData =          0
+
+=== Time 10000000 ns ===
+
+ PCValue =        196 WriteData =          0
+
+=== Time 10200000 ns ===
+
+ PCValue =        200 WriteData =          0
+
+=== Time 10400000 ns ===
+
+ PCValue =        204 WriteData =          0
+
+=== Time 10600000 ns ===
+
+ PCValue =        208 WriteData =          X
+
+=== Time 10800000 ns ===
+
+ PCValue =        212 WriteData =          0
+
+=== Time 11000000 ns ===
+
+ PCValue =        216 WriteData =          0
